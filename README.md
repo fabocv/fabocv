@@ -1,5 +1,7 @@
 # Bienvenidos, soy el Fabo! 👋
 
+## FULLSTACK DEVELOPER | UX/UI DESIGNER | PYTHON DEVELOPER
+![](https://komarev.com/fabocv/?username=your-github-username)
 ## ✨ Pincelada de mi
 
 - 🔭 Actualmente estoy trabajando en proyectos personales de psicología humanista llevada a gráficos y números
