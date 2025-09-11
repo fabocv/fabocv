@@ -1,7 +1,9 @@
 # Bienvenidos, soy el Fabo! 👋
 
 ## FULLSTACK DEVELOPER | UX/UI DESIGNER | PYTHON DEVELOPER
-![](https://komarev.com/fabocv/?username=your-github-username)
+
+![](https://komarev.com/ghpvc/?username=fabocv)
+
 ## ✨ Pincelada de mi
 
 - 🔭 Actualmente estoy trabajando en proyectos personales de psicología humanista llevada a gráficos y números
@@ -17,8 +19,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabocv&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Lenguajes más usados desde el primer semestre de 2025 hacia atrás.(fkatv)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fabocv&theme=onedark)](https://github.com/fabocv/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkatv&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fkatv&theme=onedark)](https://github.com/fabocv/github-profile-trophy)
 <!--
 **fabocv/fabocv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
