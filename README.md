@@ -1,7 +1,13 @@
 ## Bienvenidos, acá Fabo! 👋
 
-[![Fabo GitHub stats](https://github-readme-stats.vercel.app/api?username=fabocv)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabo GitHub stats](https://github-readme-stats.vercel.app/api?username=fabocv)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
+### Lenguajes más usados desde segundo semestre de 2025.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabocv&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tiempos de codeo!
+[![Fabo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabocv)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fabocv/fabocv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
