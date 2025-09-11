@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bienvenidos, acá Fabo! 👋
+
+[![Fabo GitHub stats](https://github-readme-stats.vercel.app/api?username=fabocv)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fabocv/fabocv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
