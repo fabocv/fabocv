@@ -1,6 +1,6 @@
 # Bienvenidos, soy el Fabo! 👋
 
-## FULLSTACK DEVELOPER | UX/UI DESIGNER | PYTHON DEVELOPER
+## FULLSTACK DEVELOPER | UX/UI DESIGNER | PYTHON DEVELOPER | ANGULAR MAIN
 
 ![](https://komarev.com/ghpvc/?username=fabocv)
 
