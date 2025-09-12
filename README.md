@@ -6,8 +6,8 @@
 
 ## ✨ Pincelada de mi
 
-- 🔭 Actualmente estoy trabajando en proyectos personales de hábitos y bienestar llevada a gráficos y números
-- 🌱 Aprendiendo sobre Testing, Modyo y sistemas frontend dinámicos. Reforzando Angular 20+, typescript, python
+- 🔭 Actualmente estoy trabajando en proyectos personales en python con proyección a app web / mobile
+- 🌱 Empezando a aprender sobre Testing y microfrontend. Reforzando Angular 20+, typescript, python
 - 🎯 Enfocandome en frontend + Diseño UX/UI, aunque no me cierro a apps mobile/web
 - 💡 Tengo ideas de aplicaciones ligadas a la autorregulación, autoconocimiento, ingeniería acústica y ambiental.
 - 🤔 Estoy interesado en bioinformática aplicada a neurociencia, y diseños de experiencias e interfaces.
