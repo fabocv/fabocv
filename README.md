@@ -7,7 +7,7 @@
 ## ✨ Pincelada de mi
 
 - 🔭 Actualmente estoy trabajando en proyectos personales de psicología humanista llevada a gráficos y números
-- 🌱 Aprendiendo sobre el sistema límbico, autorregulación. Por el lado tech, reforzando Angular 20+, typescript, python
+- 🌱 Aprendiendo sobre Modyo y sistemas frontend dinámicos. Reforzando Angular 20+, typescript, python
 - 🎯 Enfocandome en frontend + Diseño UX/UI, aunque no me cierro a apps híbridas, apps móviles y apps webs (modo fullstack)
 - 👯 Tengo ideas de aplicaciones ligadas a la autorregulación, autoconocimiento, ingeniería acústica y ambiental.
 - 🤔 Estoy interesado en bioinformática aplicada a neurociencia, y diseños de experiencias e interfaces.
