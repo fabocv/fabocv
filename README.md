@@ -19,11 +19,11 @@
 - 💡 Tengo ideas de aplicaciones ligadas a la autorregulación, autoconocimiento, ingeniería acústica y ambiental.
 - 🤔 Estoy interesado diseños de experiencias e interfaces.
   
-[![Fabo GitHub stats](https://github-readme-stats.vercel.app/api?username=fabocv)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Fabo GitHub stats](https://github-readme-stats.vercel.app/api?username=fabocv)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=react)
   
 ### Lenguajes más usados desde segundo semestre de 2025.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabocv&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabocv&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fabocv&theme=onedark)](https://github.com/fabocv/github-profile-trophy)
