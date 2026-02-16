@@ -1,3 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
 
-@import "tailwindcss";
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;600&display=swap');
+
+:root {
+  --color-base: #0f172a;
+  --color-surface: #1e293b;
+  --color-primary: #38bdf8;
+  --color-secondary: #94a3b8;
+  --color-accent: #f472b6;
+  --color-border: rgba(255, 255, 255, 0.1);
+  --font-mono: 'Fira Code', 'Courier New', monospace;
+}
+body {
+  background-color: var(--color-base); 
+  color: #ffffff;
+  font-family: var(--font-mono);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+html {
+  scroll-behavior: smooth;
+}

@@ -5,7 +5,10 @@ import { HelloWorldService } from '../../core/services/hello-world.service';
   selector: 'app-home-page',
   standalone: true,
   template: `
-    <h1>Home</h1>
+    <!-- Esto ahora funcionará perfectamente -->
+    <div class="bg-base min-h-screen text-primary font-mono">
+    <h1>Hola Mundo</h1>
+    </div>
     <p>{{ message }}</p>
   `,
 })
