@@ -8,7 +8,7 @@
     "test": "ng test",
     "serve:ssr:fabocv": "node dist/fabocv/server/server.mjs",
     "publish" : "npx angular-cli-ghpages --dir=dist/fabocv/browser",
-    "build": "ng build --base-href /santi-pos/ && cp dist/fabocv/browser/index.csr.html dist/fabocv/browser/index.html && cp dist/fabocv/browser/index.html dist/fabocv/browser/404.html"
+    "build": "ng build --base-href /fabocv/ && cp dist/fabocv/browser/index.csr.html dist/fabocv/browser/index.html && cp dist/fabocv/browser/index.html dist/fabocv/browser/404.html"
   },
   "prettier": {
     "printWidth": 100,

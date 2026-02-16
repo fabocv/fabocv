@@ -17,11 +17,10 @@ export interface ProjectData {
   imports: [CommonModule, TechBadgeAtom],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
-    <div class="group relative bg-surface border border-white/5 p-6 rounded-lg 
+    <div class="group relative bg-surface border border-white/10 p-6 rounded-lg 
     hover:border-primary/50 transition-all duration-500 hover:-translate-y-2 
-    hover:shadow-[0_0_30px_-5px_rgba(56,189,248,0.3)] h-full flex flex-col">
+    hover:shadow-[0_0_30px_-5px_rgba(56,189,248,0.5)] h-full flex flex-col">
       
-      <!-- Decoración de esquina -->
       <div class="absolute top-0 right-0 w-20 h-20 bg-gradient-to-bl 
       from-primary/10 to-transparent rounded-tr-lg opacity-0 group-hover:opacity-100 
       transition-opacity duration-500"></div>
