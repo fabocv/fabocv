@@ -1,7 +1,10 @@
 # Bienvenida, bienvenido! 👋
 
-## FABIÁN CATALÁN: SOFTWARE DEVELOPER | FULLSTACK DEVELOPER | UX/UI DESIGNER 
+## FABIÁN CATALÁN: SOFTWARE DEVELOPER 
 ![](https://komarev.com/ghpvc/?username=fabocv)
+
+>  [!IMPORTANT]
+> - Chequea mi web portfolio: [aquí](https://fabocv.github.io/fabocv)
 
 ## Laboral ([Ver más](https://www.linkedin.com/in/fkatv/) )
 
