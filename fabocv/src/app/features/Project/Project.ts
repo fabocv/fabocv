@@ -35,7 +35,7 @@ export class ProjectsComponent {
   projects: ProjectData[] = [
     {
       title: 'Faba Front Bench',
-      desc: 'Faba mide el costo técnico y digital de los frameworks modernos SPA en su primera carga. .',
+      desc: 'Faba mide el costo técnico y digital de los frameworks frontend SPA modernos en su primera carga.',
       stack: ['Angular', 'Vue 3', 'React', 'Svelte 5', 'VanillaJS'],
       link: 'https://github.com/fabocv/Faba-Front-Bench',
     },

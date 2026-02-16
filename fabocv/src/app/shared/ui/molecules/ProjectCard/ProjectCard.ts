@@ -25,7 +25,7 @@ export interface ProjectData {
       from-primary/10 to-transparent rounded-tr-lg opacity-0 group-hover:opacity-100 
       transition-opacity duration-500"></div>
 
-      <h3 class="text-xl font-bold text-gray-100 group-hover:text-primary transition-colors duration-300">
+      <h3 class="text-xl font-bold text-emerald-400/70 group-hover:text-primary transition-colors duration-300">
         {{ data.title }}
       </h3>
       
@@ -39,8 +39,9 @@ export interface ProjectData {
         }
       </div>
 
-      <a [href]="data.link" target="_blank" class="mt-6 inline-flex items-center text-sm text-primary 
-        hover:text-accent transition-colors duration-300">
+      <a [href]="data.link" target="_blank" class="mt-6 inline-flex items-center text-sm text-yellow-400
+        border border-white/1 w-fit p-2 rounded-xl hover:border-primary/50 
+        hover:shadow-[0_0_30px_-5px_rgba(234,179,8,0.3)] hover:border-yellow-500/50 hover:px-4 transition-colors duration-300">
         Ver Proyecto <span class="ml-2 group-hover:translate-x-1 transition-transform">→</span>
       </a>
     </div>
