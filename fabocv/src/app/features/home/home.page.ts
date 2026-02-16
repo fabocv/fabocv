@@ -5,9 +5,7 @@ import { ProjectsComponent } from "../Project/Project";
 @Component({
   selector: 'app-home-page',
   standalone: true,
-  template: `
-    <app-projects/>
-  `,
+  templateUrl: "./home.html",
   imports: [ProjectsComponent],
 })
 export class HomePage {
