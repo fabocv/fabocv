@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { HelloWorldService } from '../../core/services/hello-world.service';
 import { ProjectsComponent } from "../Project/Project";
 import { AcademiaComponent } from "../Academia/Academia";
-import { FooterComponent } from "../Footer/Footer";
+import { FooterComponent } from "../../shared/ui/molecules/Footer/Footer";
 import { WorkComponent } from "../../shared/ui/molecules/Work/Work";
 
 @Component({

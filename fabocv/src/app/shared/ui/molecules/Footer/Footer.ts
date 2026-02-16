@@ -9,8 +9,8 @@ import { Component } from '@angular/core';
         
         <!-- Lado Izquierdo: Tu Nick -->
         <div class="text-sm text-gray-500">
-          <span class="text-emerald-400/60">© 2026</span> 
-          <span class="text-gray-300 ml-2">Fabo &#64; Keyboard</span>
+          <span class="text-emerald-400">© 2026</span> 
+          <span class="text-gray-200 ml-2">Fabo &#64; K8brd</span>
         </div>
 
         <!-- Lado Derecho: Redes Sociales (Iconos Sólidos) -->

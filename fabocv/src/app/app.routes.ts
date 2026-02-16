@@ -8,7 +8,7 @@ export const routes: Routes = [
     pathMatch: 'full',
     loadComponent: () =>
       import('./features/home/home.page').then((m) => m.HomePage),
-    title: "Fabián.pdf "
+    title: "./fabo.sh "
   },
   { path: '**',
     component: NotFound404,
