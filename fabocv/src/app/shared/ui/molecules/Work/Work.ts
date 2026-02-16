@@ -23,7 +23,7 @@ interface WorkEntry {
           <span class="animate-pulse text-emerald-400">_</span>
         </h2>
         <p class="text-sm text-gray-400 mt-2 font-mono">
-          [PROCESS] Fetching professional experience history...
+          [INFO] Historial de experiencia laboral y habilidades
         </p>
       </div>
 
