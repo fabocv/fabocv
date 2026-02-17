@@ -14,7 +14,8 @@ import {
   <section class="max-w-4xl mx-auto animate-fade-in-up">
     <div class=" border-b border-emerald-400/20 pb-4 pt-8">
       <h2 class="text-3xl font-bold text-emerald-400 flex items-center gap-3">
-        <span class="text-xl opacity-70">./</span>projects_log
+        <span class="text-xl opacity-70"><</span>Proyectos
+        <span class="text-xl opacity-70">></span>
         <span class="animate-pulse text-emerald-400">_</span>
       </h2>
       <p class="text-sm text-gray-400 mt-2 font-mono">[INFO] Recorrido como freelancer 2025-2026</p>
