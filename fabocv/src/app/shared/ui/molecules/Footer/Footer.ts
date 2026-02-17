@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
         <!-- Lado Izquierdo: Tu Nick -->
         <div class="text-sm text-gray-500">
           <span class="text-emerald-400">© 2026</span> 
-          <span class="text-gray-200 ml-2">Fabo &#64; K8brd</span>
+          <span class="text-gray-200 ml-2">Fabo | fabocv</span>
         </div>
 
         <!-- Lado Derecho: Redes Sociales (Iconos Sólidos) -->

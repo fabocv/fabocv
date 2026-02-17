@@ -57,24 +57,17 @@ interface AcademicEntry {
             </div>
 
             <!-- Institución -->
-            <div class="text-base text-gray-300 font-medium mb-3 flex items-center gap-2">
+            <div class="text-base text-yellow-400 font-medium mb-3 flex items-center gap-2">
               <span class="text-emerald-400">@</span> {{ item.institution }}
             </div>
 
             <!-- Descripción -->
-            <p class="text-sm text-gray-400 leading-relaxed max-w-2xl border-l-2 border-white/5 pl-4 hover:border-emerald-400/30 transition-colors">
+            <p class="text-sm text-gray-100 leading-relaxed max-w-2xl border-l-2 border-white/5 pl-4 hover:border-emerald-400/30 transition-colors">
               {{ item.description }}
             </p>
 
           </div>
         }
-
-        <!-- FINAL DE LA LÍNEA -->
-        <div class="relative pl-8 pt-4">
-          <span class="font-mono text-xs text-gray-600">
-            [END OF LOG] <span class="text-emerald-600">Initial commit</span>
-          </span>
-        </div>
 
       </div>
     </section>
@@ -93,13 +86,6 @@ export class AcademiaComponent {
   
   // Aquí pones tus datos reales
   education: AcademicEntry[] = [
-    {
-      year: '2026',
-      degree: 'Diplomado de Filosofía Contemporánea ',
-      institution: 'Por definir',
-      description: 'Para el segundo semestre de 2026!.',
-      current: true
-    },
     {
       year: '2024',
       degree: 'Diplomado de Diseño UX/UI/Agile ',

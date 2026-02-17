@@ -9,6 +9,7 @@ export interface ProjectData {
   desc: string;
   stack: string[];
   link: string;
+  status: string;
 }
 
 @Component({
@@ -24,6 +25,10 @@ export interface ProjectData {
       <div class="absolute top-0 right-0 w-20 h-20 bg-gradient-to-bl 
       from-primary/10 to-transparent rounded-tr-lg opacity-0 group-hover:opacity-100 
       transition-opacity duration-500"></div>
+
+      <div class="flex text-center justify-center items-center text-emerald-400 rounded-xs text-xs pb-2 mb-4 monospace border-0 border-b-2 border-b-yellow-600">
+        {{data.status}}
+      </div>
 
       <h3 class="text-xl font-bold text-emerald-400/70 group-hover:text-primary transition-colors duration-300">
         {{ data.title }}

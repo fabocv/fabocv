@@ -19,8 +19,8 @@ interface WorkEntry {
       <!-- 1. ENCABEZADO (Igual que Academia) -->
       <div class="mb-12 border-b border-emerald-400/20 pb-4">
         <h2 class="text-3xl font-bold text-emerald-400 flex items-center gap-3">
-          <span class="text-xl opacity-70">./</span>laboral_log
-          <span class="animate-pulse text-emerald-400">_</span>
+          <span class="text-xl opacity-70"><</span>laboral
+          <span class="animate-pulse text-emerald-400">></span>
         </h2>
         <p class="text-sm text-gray-400 mt-2 font-mono">
           [INFO] Historial de experiencia laboral y habilidades
