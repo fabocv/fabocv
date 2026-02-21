@@ -52,7 +52,7 @@ export class ProjectsComponent {
       title: 'EcoPlan SQL',
       desc: 'Web que transforma los planes de ejecución de Postgres en indicadores de costos operacionales, económicos y ambientales.',
       stack: ['Angular', 'TypeScript', 'RxJS'],
-      link: 'https://github.com/fabocv/EcoPlan-SQL',
+      link: 'https://fabocv.github.io/EcoPlan-SQL/#/dash',
       status: 'En desarrollo'
     },
     {
