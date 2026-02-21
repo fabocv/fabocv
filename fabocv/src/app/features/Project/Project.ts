@@ -39,35 +39,40 @@ export class ProjectsComponent {
       desc: 'Faba mide el costo técnico y digital de los frameworks frontend SPA modernos en su primera carga.',
       stack: ['Angular', 'Vue 3', 'React', 'Svelte 5', 'VanillaJS'],
       link: 'https://github.com/fabocv/Faba-Front-Bench',
-      status: 'Finalizado'
+      status: 'Finalizado',
+      image: 'assets/faba.webp'
     },
     {
       title: 'Santi - Punto de venta',
       desc: 'Un POS sencillo para testear, solo para ventas y operadores, diseñado para ser usado solo con teclado numérico.',
       stack: ['Angular', 'Typescript', 'RxJS'],
       link: 'https://fabocv.github.io/santi-pos/#/login',
-      status: 'Por Testear'
+      status: 'Por Testear',
+      image: 'assets/santi.webp'
     },
     {
       title: 'EcoPlan SQL',
       desc: 'Web que transforma los planes de ejecución de Postgres en indicadores de costos operacionales, económicos y ambientales.',
       stack: ['Angular', 'TypeScript', 'RxJS'],
       link: 'https://fabocv.github.io/EcoPlan-SQL/#/dash',
-      status: 'En desarrollo'
+      status: 'En desarrollo',
+      image: 'assets/ecoplan.webp'
     },
     {
       title: 'Norkeb - caso de estudio UX',
       desc: 'Empleo de procesos de diseño UX para una futura aplicación web de un growshop ficticio a modo de ejercicio. ',
       stack: ['UX'],
       link: 'https://github.com/fabocv/UX-Norkeb-caso-estudio',
-      status: 'Finalizado'
+      status: 'Finalizado',
+      image: null
     },
     {
       title: 'Fabo Portafolio 2026',
       desc: 'Mi portafolio. Pagespeed: 100% rendimiento.',
       stack: ['Angular', 'TypeScript'],
       link: 'https://fabocv.github.io/fabocv/',
-      status: 'Finalizado'
+      status: 'Finalizado',
+      image: null
     },
   ];
 }

@@ -10,6 +10,7 @@ export interface ProjectData {
   stack: string[];
   link: string;
   status: string;
+  image: string | null;
 }
 
 @Component({
@@ -19,7 +20,7 @@ export interface ProjectData {
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <div class="group relative bg-surface border border-white/10 p-6 rounded-lg 
-    hover:border-primary/50 transition-all duration-500 hover:-translate-y-2 
+    hover:border-primary/50 transition-all duration-500
     hover:shadow-[0_0_30px_-5px_rgba(56,189,248,0.5)] h-full flex flex-col">
       
       <div class="absolute top-0 right-0 w-20 h-20 bg-gradient-to-bl 
@@ -38,11 +39,20 @@ export interface ProjectData {
         {{ data.desc }}
       </p>
 
+      @if (data.image) {
+        <div class="max-h-40 w-50">
+          <button class="h-40 w-50 absolute bg-blue-950/80 hover:bg-blue-950/60 rounded-md cursor-pointer">Ver imágen</button>
+          <img class="h-40 w-50" [src]="data.image" alt="Imagen de {{data.title}}">
+        </div>
+      }
+
       <div class="mt-6 flex flex-wrap gap-2">
         @for(tech of data.stack; track tech) {
           <atom-tech-badge [label]="tech" />
         }
       </div>
+
+      
 
       <a [href]="data.link" target="_blank" class="mt-6 inline-flex items-center text-sm text-yellow-400
         border border-white/1 w-fit p-2 rounded-xl hover:border-primary/50 
@@ -54,4 +64,9 @@ export interface ProjectData {
 })
 export class ProjectCardComponent {
   @Input({ required: true }) data!: ProjectData;
+  dataImg: {image: string | null, title: string} | null = null;
+
+  lanzarImagen() {
+    this.dataImg = {image: this.data.image, title: this.data.title}
+  }
 }
