@@ -35,6 +35,13 @@ import {
 export class ProjectsComponent {
   projects: ProjectData[] = [
     {
+      title: 'Torus K',
+      desc: 'Torus K es una herramienta que transforma la manera en que los buscadores de IA interpretan un sitio web.',
+      stack: ['Angular', 'Typescript'],
+      link: 'https://fabocv.github.io/Torus-K/',
+      status: 'Finalizado'
+    },
+    {
       title: 'Faba Front Bench',
       desc: 'Faba mide el costo técnico y digital de los frameworks frontend SPA modernos en su primera carga.',
       stack: ['Angular', 'Vue 3', 'React', 'Svelte 5', 'VanillaJS'],

@@ -1,14 +1,32 @@
-<section class="max-w-4xl my-12 mx-auto px-12 animate-fade-in-up">
-    <h1 class="flex-row text-3xl text-emerald-300 font-bold"><span class="animate-pulse px-2">></span>Fabián <span class="animate-pulse text-yellow-300">"Fabo"</span> Catalán</h1>
-    
+<body>
+  <!-- Capa adicional de efectos circulares (opcional) -->
+  <div class="fixed inset-0 -z-10 pointer-events-none overflow-hidden">
+    <div
+      class="absolute top-1/3 left-1/3 w-[500px] h-[500px] bg-blue-900/10 rounded-full blur-[150px]"
+    ></div>
+    <div
+      class="absolute bottom-1/4 right-1/3 w-[400px] h-[400px] bg-cyan-900/10 rounded-full blur-[130px]"
+    ></div>
+    <div
+      class="absolute top-2/3 left-2/3 w-[350px] h-[350px] bg-slate-800/15 rounded-full blur-[140px]"
+    ></div>
+  </div>
+
+  <section class="max-w-4xl my-12 mx-auto px-12 animate-fade-in-up">
+    <h1 class="flex-row text-3xl text-emerald-300 font-bold">
+      <span class="animate-pulse px-2">></span>Fabián
+      <span class="animate-pulse text-yellow-300">"Fabo"</span> Catalán
+    </h1>
+
     <div class="my-8 bg-gray-800/50 text-gray-100 border rounded-xl p-4 text-xs md:text-sm">
-        <h2><span class="text-yellow-400">Autor:</span> Fabián Leandro Catalán Vejar</h2>
-        <h2><span class="text-yellow-400">Exper:</span> 3 años laborales</h2>
+      <h2><span class="text-yellow-400">Autor:</span> Fabián Leandro Catalán Vejar</h2>
+      <h2><span class="text-yellow-400">Exper:</span> 3 años laborales</h2>
     </div>
 
-    <app-work/>
-    <app-projects/> 
-    <app-academia class="mt-12"/>
-    <app-footer/>
-    
-</section>
+    <app-work />
+    <div class="lighthouse-divider relative h-32 md:h-40 flex items-center justify-center overflow-hidden my-16">      <div class="lighthouse-tower relative z-10">        <div class="tower-top"></div>        <div class="tower-body"></div>        <div class="tower-base"></div>      </div>      <div class="lighthouse-beam"></div>    </div>
+    <app-projects />
+    <app-academia class="mt-12" />
+    <app-footer />
+  </section>
+</body>
